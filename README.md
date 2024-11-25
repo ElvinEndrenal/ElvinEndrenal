@@ -49,14 +49,11 @@
 ###
 
 <div align="left">
-  <a href="endrenalelvin@gmail.com" target="_blank">
+  <a href="mailto:endrenalelvin@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="endrenal.346349@sanpablo.sti.edu.ph" target="_blank">
+  <a href="mailto:endrenal.346349@sanpablo.sti.edu.ph" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="j.e.null" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
