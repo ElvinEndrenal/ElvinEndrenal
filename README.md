@@ -44,17 +44,5 @@
 
 ###
 
-<h2 align="left">Reach me at</h2>
-
-###
-
-<div align="left">
-  <a href="mailto:endrenalelvin@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="mailto:endrenal.346349@sanpablo.sti.edu.ph" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
 
 ###
