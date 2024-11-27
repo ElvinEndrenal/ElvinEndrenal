@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvin</h1>
-<h3 align="center">An Information and Communication Technology (ICT) student from STI.</h3>
+<h3 align="center">A senior high school student specializing in Information and Communication Technology, with plans to pursue a degree in Computer Science. Knowledgeable in foundational programming, I have a growing interest in areas like software development and data analysis. I bring strong adaptability, communication skills, and a commitment to continuous learning.</h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
