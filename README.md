@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Full-Stack Web Development<br>🎯 Goals: To contribute to the industry while pursuing my passion for learning and creating<br>🎲 Fun fact: I love caffeine</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Full-Stack Web Development<br>🎯 Goals: To contribute to the industry while pursuing my passion for learning and creating<br>🎲 Fun fact: I turn caffeine into code</p>
 
 ###
 
